@@ -3,27 +3,30 @@ I'm Mohamed Ashraf, a full-time Backend Developer with extensive experience in d
 I excel in building efficient backend architectures, optimizing database performance, and implementing RESTful APIs.
 I have a proven track record of delivering high-quality solutions across diverse industries.
 ❓ Feel free to ask me anything related to C#, .NET, or modern backend development strategies.
-My Skill Set
-Backend Technologies
-C# & .NET Core
-SQLServer & Redis
-RESTful API Design
-Clean Architecture
-Git & Version Control
-Unit Of Work
-Repository
-JWT
-OOP
-CQRS
-Additional Skills
-System Architecture & Scalability
-Database Design & Optimization
-Agile Development Methodologies
-Professional Experience
+## My Skill Set
+
+### Backend Technologies
+- **C# & .NET Core**
+- **SQLServer & Redis**
+- **RESTful API Design**
+- **Clean Architecture**
+- **Git & Version Control**
+- **Unit Of Work**
+- **Repository**
+- **JWT**
+- **OOP**
+- **CQRS**
+  
+### Additional Skills
+- **System Architecture & Scalability**
+- **Database Design & Optimization**
+- **Agile Development Methodologies**
+
+## Professional Experience
 I have successfully contributed to multiple projects by:
 
-Designing and developing robust backend solutions using C# and .NET Core.
-Enhancing system performance through effective database optimization and caching strategies.
+- Designing and developing robust backend solutions using C# and .NET Core.
+- Enhancing system performance through effective database optimization and caching strategies.
 For a detailed overview of my projects and achievements, please refer to my resume.
 
 Connect with Me
