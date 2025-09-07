@@ -32,6 +32,12 @@ For a detailed overview of my projects and achievements, please refer to my resu
 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-270890221)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamed6&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamed6&layout=compact&theme=radical)
+
+
 ## Pinned Repositories
 1. [School Management System](https://github.com/muhamed6/SchoolProjectCleanArchitecture) - SchoolProject Using Asp.net Core Web Api Using Clean Architecture Based On Code First.
 2. [Shaghaf](https://github.com/muhamed6/Shaghaf.APIs) - Shaghaf is a comprehensive application designed for booking and renting various rooms for multiple purposes. 
